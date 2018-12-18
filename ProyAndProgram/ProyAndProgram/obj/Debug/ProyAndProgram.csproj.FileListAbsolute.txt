@@ -1,0 +1,81 @@
+c:\users\user\documents\visual studio 2015\Projects\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe
+c:\users\user\documents\visual studio 2015\Projects\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.pdb
+c:\users\user\documents\visual studio 2015\Projects\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+c:\users\user\documents\visual studio 2015\Projects\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
+F:\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+F:\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+F:\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
+F:\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe
+F:\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.pdb
+F:\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csprojResolveAssemblyReference.cache
+F:\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Form1.resources
+F:\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Properties.Resources.resources
+F:\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.GenerateResource.Cache
+E:\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+E:\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+E:\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.pdb
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Form1.resources
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Properties.Resources.resources
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.pdb
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Form1.resources
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Properties.Resources.resources
+C:\Users\user\Desktop\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.GenerateResource.Cache
+F:\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.ResolveComReference.cache
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.ResolveComReference.cache
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.pdb
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csprojResolveAssemblyReference.cache
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Form1.resources
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Properties.Resources.resources
+C:\Users\3.6b\Documents\Visual C\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.GenerateResource.Cache
+I:\ProyAndProgramAct\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+I:\ProyAndProgramAct\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.ResolveComReference.cache
+I:\ProyAndProgramAct\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+I:\ProyAndProgramAct\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.pdb
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Form1.resources
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Properties.Resources.resources
+C:\Users\user\Desktop\EIA 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+C:\Users\user\Desktop\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+C:\Users\user\Desktop\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe.config
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.exe
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\bin\Debug\ProyAndProgram.pdb
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csprojAssemblyReference.cache
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.ResolveComReference.cache
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Form1.resources
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.Properties.Resources.resources
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.GenerateResource.cache
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.csproj.CoreCompileInputs.cache
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.exe
+D:\TodoLodeDiscoC\USB_2\UPortafolio\Universidad\Eia 3\Programacion\ProyAndProgram\ProyAndProgram\obj\Debug\ProyAndProgram.pdb
